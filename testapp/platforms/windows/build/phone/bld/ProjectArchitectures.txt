@@ -1,0 +1,1 @@
+C:\Users\he\Downloads\coreamp-14-1105\coreamp\cordovaspace\cordova\testapp\platforms\windows\CordovaApp.Phone.jsproj;neutral

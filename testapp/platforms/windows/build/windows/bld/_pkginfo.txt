@@ -1,0 +1,1 @@
+C:\Users\he\Downloads\coreamp-14-1105\coreamp\cordovaspace\cordova\testapp\platforms\windows\AppPackages\CordovaApp.Windows_0.0.1.0_anycpu_debug_Test\CordovaApp.Windows_0.0.1.0_anycpu_debug.appx

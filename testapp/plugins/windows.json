@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "Yii"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "Yii"
+        }
+    },
+    "dependent_plugins": {}
+}
