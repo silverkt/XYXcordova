@@ -48,9 +48,12 @@ http://www.2cto.com/kf/201502/377162.html
 
 ==============swift=====================================
 
+https://swift.org/
 http://swifter.tips/
 http://www.cocoachina.com/bbs/read.php?tid=208407
 http://www.swiftv.cn/course/hysdu3qr
+http://www.cocoachina.com/special/swift/
+http://www.open-open.com/doc/list/320
 
 ========================================================
 IOS开发中@关键字 都有那些
@@ -76,6 +79,19 @@ http://www.cocoachina.com/bbs/read.php?tid-300636.html
  http://tieba.baidu.com/p/3435120719
 
  ----------------------------------------------------------
- 
 
+iOS7开发-Apple苹果iPhone开发Xcode官方文档翻译PDF下载地址(2014年2月19日更新版)
+http://www.cnblogs.com/ChenYilong/p/3496069.html
+
+UIWebView---iOS-Apple苹果官方文档翻译
+http://www.cnblogs.com/ChenYilong/p/3495622.html
+
+Swift 学完后如何上手 UIKit 框架及其他常用类库？ 
+http://www.zhihu.com/question/24030532/answer/26495036
+
+Does swift playground support UIKit?
+http://stackoverflow.com/questions/24009598/does-swift-playground-support-uikit
+
+cocoa china uikit
+http://www.cocoachina.com/cms/tags.php?/UIKit/
 
