@@ -9,9 +9,9 @@ https://www.baidu.com/s?wd=Codeception&rsv_spt=1&rsv_iqid=0x99731c9b00010052&iss
 http://www.haomou.net/2014/08/13/2014_bare_token/
 
 
-jsonp ����
+jsonp ¿çÓò
 
-�ο���վ��ʽ
+²Î¿¼ÍøÕ¾ÐÎÊ½
 https://phphub.org/topics/2520
 http://v2ex.com/t/297768#reply55
 
@@ -26,12 +26,12 @@ http://zengrong.net/post/1746.htm
 http://www.liaosam.com/
 
 
-��վ�ο�
+ÍøÕ¾²Î¿¼
 http://www.zjyou.cn/tribe/tribe.html
 http://bxpy.12333sh.gov.cn/hdpy/Main/Jbjd.aspx
 
 
-��Ӱ
+µçÓ°
 http://www.gamersky.com/wenku/201604/739951_25.shtml
 http://www.gamersky.com/wenku/201605/757571_7.shtml
 http://www.gamersky.com/wenku/201604/743138_12.shtml
@@ -43,3 +43,39 @@ http://www.jianshu.com/p/f69e8a5ae4f9
 http://www.cocoachina.com/bbs/read.php?tid=208407
 https://www.baidu.com/baidu?wd=wController%E9%A1%B5%E9%9D%A2%E8%B7%B3%E8%BD%AC%E7%9B%B8%E5%85%B3&tn=monline_4_dg&ie=utf-8
 http://www.2cto.com/kf/201502/377162.html
+
+
+
+==============swift=====================================
+
+http://swifter.tips/
+http://www.cocoachina.com/bbs/read.php?tid=208407
+http://www.swiftv.cn/course/hysdu3qr
+
+========================================================
+IOS开发中@关键字 都有那些
+http://zhidao.baidu.com/link?url=m2dNo9uJ6DYBc3plnKhnZgbd4ms-WCZGH-5U2H6YG9N5s_yDghhnemmi7-RRpExM43CWsUSxl3oDmk7-Y07O3K
+
+@IBAction 这个@是什么意思  
+http://www.cocoachina.com/bbs/read.php?tid-300636.html
+
+ iPhone应用程序开发基础之一： IBOutlet与IBAction 
+ http://blog.csdn.net/richard_wu2005/article/details/6654084
+
+ AppDelegate.swift文件中的@UIApplicationMain为什么显式的写出来呢？
+ http://www.zhihu.com/question/36275252
+
+ @UIApplicationMain
+ http://swifter.tips/uiapplicationmain/
+
+ IOS深入学习（17）之选择器（Selector）
+ http://www.tuicool.com/articles/MzYZRb
+
+ iOS开发之@(),@[],@{}
+ http://www.sjsjw.com/kf_mobile/article/030194ABA015998.asp
+ http://tieba.baidu.com/p/3435120719
+
+ ----------------------------------------------------------
+ 
+
+
