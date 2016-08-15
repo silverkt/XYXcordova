@@ -1,2 +1,2 @@
-# cordova_std
-a repository for studing cordova
+# cordova
+a repository for cordova
