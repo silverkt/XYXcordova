@@ -1,3 +1,4 @@
+﻿
 http://sui.taobao.org/sui/docs/
 http://www.getyii.com/
 
@@ -54,6 +55,8 @@ http://www.cocoachina.com/bbs/read.php?tid=208407
 http://www.swiftv.cn/course/hysdu3qr
 http://www.cocoachina.com/special/swift/
 http://www.open-open.com/doc/list/320
+大麦学院
+http://www.maiziedu.com/course/ios/
 
 ========================================================
 IOS开发中@关键字 都有那些
