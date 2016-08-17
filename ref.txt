@@ -57,6 +57,9 @@ http://www.cocoachina.com/special/swift/
 http://www.open-open.com/doc/list/320
 大麦学院
 http://www.maiziedu.com/course/ios/
+https://developer.apple.com/reference/uikit/uiwindow/1621601-makekeyandvisible
+
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
 
 ========================================================
 IOS开发中@关键字 都有那些
