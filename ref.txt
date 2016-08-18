@@ -61,6 +61,9 @@ https://developer.apple.com/reference/uikit/uiwindow/1621601-makekeyandvisible
 
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/
 
+Apple官方的《马上着手开发 iOS 应用程序》
+http://riaoo.com/?p=2659
+
 ========================================================
 IOS开发中@关键字 都有那些
 http://zhidao.baidu.com/link?url=m2dNo9uJ6DYBc3plnKhnZgbd4ms-WCZGH-5U2H6YG9N5s_yDghhnemmi7-RRpExM43CWsUSxl3oDmk7-Y07O3K
