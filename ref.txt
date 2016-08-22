@@ -1,4 +1,6 @@
 ﻿
+129157650205
+
 http://sui.taobao.org/sui/docs/
 http://www.getyii.com/
 
@@ -64,6 +66,9 @@ https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Fram
 Apple官方的《马上着手开发 iOS 应用程序》
 http://riaoo.com/?p=2659
 
+菜鸟教程
+http://www.yiibai.com/swift/optional_protocol_requirements.html
+
 ========================================================
 IOS开发中@关键字 都有那些
 http://zhidao.baidu.com/link?url=m2dNo9uJ6DYBc3plnKhnZgbd4ms-WCZGH-5U2H6YG9N5s_yDghhnemmi7-RRpExM43CWsUSxl3oDmk7-Y07O3K
@@ -103,4 +108,57 @@ http://stackoverflow.com/questions/24009598/does-swift-playground-support-uikit
 
 cocoa china uikit
 http://www.cocoachina.com/cms/tags.php?/UIKit/
+
+
+--------------------------------------------------------------
+
+Swift - 委托（delegate）的介绍，及使用样例
+http://www.hangge.com/blog/cache/detail_810.html
+
+swift的集合
+http://www.jianshu.com/p/fe5cb17a4481
+http://www.myexception.cn/swift/1948143.html
+http://blog.csdn.net/tounaobun/article/details/39830457
+
+swift的协议
+http://letsswift.com/2014/06/protocols/
+http://blog.csdn.net/tonny_guan/article/details/37562317
+
+swift的可选连
+http://letsswift.com/2014/06/optional-chaining/
+
+swift的ANYCLASS，元类型和 .SELF
+http://swifter.tips/self-anyclass/
+
+ios view的frame和bounds之区别（位置和大小） 
+http://blog.csdn.net/mad1989/article/details/8711697
+
+addSubview和insertSubview的区别
+http://justsee.iteye.com/blog/1601397
+
+主题 : Swift button 事件 addTarget 疑问
+http://www.cocoachina.com/bbs/read.php?tid-282005-page-1.html
+
+button.addTarget方法中实现附加参数(Swift)
+http://www.ucai.cn/ask/detail?queid=3950
+addTarget: action:forControlEvents:如何传递多参数？
+http://www.cocoachina.com/bbs/read.php?tid=264952   
+
+触摸事件UITouch的用法 
+http://blog.csdn.net/enuola/article/details/8291402
+
+@selector 调用方法，传递多参数。。
+http://blog.sina.com.cn/s/blog_721cd3390101vnyq.html
+
+
+史上最详细的iOS之事件的传递和响应机制
+http://www.cnblogs.com/machao/p/5471094.html
+
+iOS事件的分发机制和响应者链(Swift) 
+http://blog.csdn.net/longshihua/article/details/51952824
+
+
+
+
+
 
