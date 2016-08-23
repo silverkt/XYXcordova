@@ -109,7 +109,11 @@ http://stackoverflow.com/questions/24009598/does-swift-playground-support-uikit
 cocoa china uikit
 http://www.cocoachina.com/cms/tags.php?/UIKit/
 
+The Swift Programming Language》中文版
+https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details
+https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/chapter2/16_Automatic_Reference_Counting.html
 
+http://www.swiftguide.cn/
 --------------------------------------------------------------
 
 Swift - 委托（delegate）的介绍，及使用样例
@@ -156,6 +160,46 @@ http://www.cnblogs.com/machao/p/5471094.html
 
 iOS事件的分发机制和响应者链(Swift) 
 http://blog.csdn.net/longshihua/article/details/51952824
+
+Swift之改变状态栏显示颜色的两种方法 
+http://blog.csdn.net/u013440030/article/details/47726673
+http://www.07net01.com/2015/07/879190.html
+
+关于swift中的强引用 弱引用 无主引用
+http://www.tuicool.com/articles/NJVFfaQ
+
+ios深度解析之Swift(枚举,继承,协议,扩展)
+http://blog.csdn.net/liyublog/article/details/49366967
+
+ swift 第一个IOS应用程序 
+ http://blog.csdn.net/zhang_biao_1991/article/details/30022449 
+
+ iOS开发之loadView和viewDidLoad总结（一）
+ http://bbs.9ria.com/thread-217494-1-1.html
+
+ Swift - 类型属性（类静态属性）和类方法（类静态方法）
+ http://www.hangge.com/blog/cache/detail_520.html
+
+ 如何隐藏UINavigationbar下面的黑线，swift版
+ http://www.starming.com/index.php?v=index&view=53
+
+ swift开发教程--如何设置导航控制器标题栏的字体及颜色 
+ http://blog.csdn.net/wanglixin1999/article/details/46895927
+ Swift修改navigation bar背景颜色、标题及其颜色
+ http://www.th7.cn/Program/IOS/201508/535309.shtml
+ ios开发之Swift标签栏按钮UITabBarItem样式修改（图标文字尺寸，颜色等）
+ http://www.111cn.net/sj/iOS/100123.htm
+
+ NSAttributedString用法
+ http://www.mamicode.com/info-detail-928813.html
+
+  Swift navigationItem 属性常用设置 
+  http://blog.csdn.net/lwjok2007/article/details/48373373
+
+
+  主题 : 关于UIEdgeInsets以及UIEdgeInsetsMake的请教，不懂是什么意思 
+  http://www.cocoachina.com/bbs/read.php?tid=70327
+
 
 
 
