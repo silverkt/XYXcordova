@@ -203,6 +203,9 @@ http://blog.csdn.net/liyublog/article/details/49366967
 UITabBarItem 更改图像的高度和宽度／UINavigationBar 更改样式 
 http://blog.csdn.net/zhanglinxu/article/details/41312297
 
+iOS代码获取图片主色调
+http://blog.csdn.net/small_tgs/article/details/51151197
+
 
 
 
