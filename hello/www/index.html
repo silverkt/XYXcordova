@@ -1,14 +1,42 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
- <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
-<body>
+    <head>
+        <title>Capture Photo</title>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+        <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
+        <script type="text/javascript" charset="utf-8">
  
-<video src="http://static.videogular.com/assets/videos/videogular.mp4"  width="320" height="240" controls="controls">
-Your browser does not support the video tag.
-</video>
-
-<iframe src="
-http://91.p9p.co/ev.php?VID=b7f0CX0BqQ7DlPOL6pB77AoU9iMj3ybWSa1RSV8s2Xdo9YEI" border="0" scrolling="none" width="100%" height="100%"></iframe>
-
-</body>
+            document.addEventListener("deviceready",onDeviceReady,false);
+ 
+            //Cordova加载完成会触发
+            function onDeviceReady() {
+            }
+ 
+            function getCurrentPosition(){
+                //定位数据获取成功响应
+                var onSuccess = function(position) {
+                    alert('纬度: '          + position.coords.latitude          + '\n' +
+                          '经度: '         + position.coords.longitude         + '\n' +
+                          '海拔: '          + position.coords.altitude          + '\n' +
+                          '水平精度: '          + position.coords.accuracy          + '\n' +
+                          '垂直精度: ' + position.coords.altitudeAccuracy  + '\n' +
+                          '方向: '           + position.coords.heading           + '\n' +
+                          '速度: '             + position.coords.speed             + '\n' +
+                          '时间戳: '         + position.timestamp                + '\n');
+                };
+ 
+                //定位数据获取失败响应
+                function onError(error) {
+                    alert('code: '    + error.code    + '\n' +
+                          'message: ' + error.message + '\n');
+                }
+ 
+                //开始获取定位数据
+                navigator.geolocation.getCurrentPosition(onSuccess, onError);
+            }
+        </script>
+    </head>
+    <body style="padding-top:50px">
+        <button style="font-size:23px;" onclick="getCurrentPosition();">获取位置信息</button>
+    </body>
 </html>
