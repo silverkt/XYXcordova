@@ -1,42 +1,55 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Capture Photo</title>
-        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-        <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
-        <script type="text/javascript" charset="utf-8">
+<html ng-app="abb">
+
+
+
+<div ng-include="'header.html'"></div>
+
+<div ng-include="'header.html'"></div>
+
+
+
+
+<div ng-controller="customersController">
+
  
-            document.addEventListener("deviceready",onDeviceReady,false);
+   
+    {{ thisjson.code }}
  
-            //Cordova加载完成会触发
-            function onDeviceReady() {
-            }
+
+</div>
  
-            function getCurrentPosition(){
-                //定位数据获取成功响应
-                var onSuccess = function(position) {
-                    alert('纬度: '          + position.coords.latitude          + '\n' +
-                          '经度: '         + position.coords.longitude         + '\n' +
-                          '海拔: '          + position.coords.altitude          + '\n' +
-                          '水平精度: '          + position.coords.accuracy          + '\n' +
-                          '垂直精度: ' + position.coords.altitudeAccuracy  + '\n' +
-                          '方向: '           + position.coords.heading           + '\n' +
-                          '速度: '             + position.coords.speed             + '\n' +
-                          '时间戳: '         + position.timestamp                + '\n');
-                };
+
+
  
-                //定位数据获取失败响应
-                function onError(error) {
-                    alert('code: '    + error.code    + '\n' +
-                          'message: ' + error.message + '\n');
-                }
+<script type="text/javascript" src="angular.min.js"></script>
+<script>
+
+
+var app = angular.module("abb", []);
+
+app.controller('customersController', function($http, $scope) {
+	// $http.get("http://ip.taobao.com/service/getIpInfo.php?ip=121.35.211.41")
+ //    .success(function (response) {$scope.jsons = response;});
+	 
+	// console.log($scope.jsons);
+
+	// $http.jsonp("http://ip.taobao.com/service/getIpInfo.php?jsonp=badgeabc&ip=121.35.211.41").function(data){   }
+	// 
+	$http.jsonp("https://api.github.com/repos/cs1707/blog/posts?callback=JSON_CALLBACK") 
+        .success(
+        function(data)
+        { 
+console.log(JSON.stringify(data));
+});
+
+	$scope.thisjson = {
+		code :"empty"
+	}
+});
  
-                //开始获取定位数据
-                navigator.geolocation.getCurrentPosition(onSuccess, onError);
-            }
-        </script>
-    </head>
-    <body style="padding-top:50px">
-        <button style="font-size:23px;" onclick="getCurrentPosition();">获取位置信息</button>
-    </body>
-</html>
+</script>
+
+
+
+
+
